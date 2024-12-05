@@ -1,3 +1,4 @@
+#wdee
 # 使用 uiautomator2 作为调试工具
 # pip install uiautomator2 -i https://pypi.douban.com/simple/
 import uiautomator2 as ui
